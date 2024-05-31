@@ -1,6 +1,6 @@
 earning<form action="action_page.php">
   <div class="container">
-    <h1>New user Registration, WELCOME to DevOps Learning, keep learning</h1>
+    <h1>WELCOME to DevOps Learning, keep learning</h1>
     <p>Please fill in this form to create your account.</p>
     <hr>
      
